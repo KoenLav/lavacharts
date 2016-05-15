@@ -284,4 +284,3 @@ var lava = lava || {};
  * Adding the resize event listener for redrawing charts.
  */
 lava.attachRedrawHandler(window);
-lava.run(window);
